@@ -29,5 +29,6 @@ class SpiralMatrix{
             }
         }
         System.out.println(list);
+        System.out.println(left+" "+right+" "+top+" "+bottom);
     }
 }
